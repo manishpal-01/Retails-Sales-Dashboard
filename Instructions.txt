@@ -1,0 +1,28 @@
+Dashboard Overviews:
+KPI's  :
+Total Sales, Total Profit, Total Orders, Profit Margin, AOV, Total UnitSold, Return Rate% , 
+Sales YTD, Sales PreviousYear, Sales YOY Growth %
+
+Page 1: Executive Overview
+1. Total Net Sales, Total Profit, Profit Margin %, Total Orders, Average Order Value.
+2. Net Sales By Months ( With Sales Previous Year as a Comparison line )
+3. Net Sales by City/Region
+
+Page 2: Product Performance 
+1. Net Sales and Profit by Category/Sub-category
+2. Top 10 product by Profit, with units sold and margin %
+3. UnitPrice Vs Units Sold by Category
+
+Page 3: Customer Insights
+1. Sales by Segment ( Consumer / Corporate / Small Business )
+2. Sales by Loyalty Tier
+3. Top Customers by Net Sales
+
+Page 4: Store & Channel Analysis 
+1. Net Sales by Store, Online vs Physical
+2. Sales by Payment Method
+3. Orders by Day of Week / Weekend vs Weekdays
+
+
+
+
